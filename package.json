@@ -1,0 +1,19 @@
+{
+  "name": "react-ts-swc-esbuild-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcko/react-ts-swc-esbuild-starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcko/react-ts-swc-esbuild-starter/issues"
+  },
+  "homepage": "https://github.com/bcko/react-ts-swc-esbuild-starter#readme"
+}
